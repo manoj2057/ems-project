@@ -1,0 +1,32 @@
+*{
+    margin:0 !important;
+    
+}
+.image{
+   background-image: url(./img/mountain.jpg);
+    min-height: 600px;
+    padding: 0;
+    width:100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+nav{
+    position: absolute;
+  margin: 20px;
+  width: auto;
+  padding:20px;
+}
+.icons{
+    background-color: grey;
+    height: 40px;
+    width:80px;
+    border-radius: 20px;
+}
+.icons i{
+    float:left;
+}
+
+/* carousel */
