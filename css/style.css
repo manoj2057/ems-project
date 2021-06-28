@@ -1,0 +1,159 @@
+/*-- Navigation Style --*/
+#navbar{
+	height: 100vh;
+	width: 100vw;
+	background-color: #1ed4d1;
+
+}
+#navbar ul{
+	list-style-type: none;
+}
+#navbar ul li{
+	float: left;
+}
+#navbar ul li a{
+	background-color: #b386e3;
+	padding:20px 30px ;
+	display: inline-block;
+	color:#4f9c43;
+	margin: 10px 10px;
+	border-radius: 50px;
+	font-family: cursive;
+	text-decoration: none;
+
+}
+#navbar ul li a:hover{
+	background-color: #708ecf;
+	color: #e2f0dd;
+}
+
+
+/*-- Slider Area --*/
+#slidebar{
+	height: 100vh;
+	width: 98.8vw;
+	background-color:#35635d ;
+
+
+}
+
+/* #slidebar a{
+	color: white;
+	text-decoration: none;
+	padding: 15px 20px;
+	margin: 10px 10px;
+	background-color: #c3b5e6;
+	display: inline-block;
+	border-radius: 80px;
+}
+ #slidebar a:hover{
+	background-color: #c29a0c;
+	color: #fff;
+} */
+
+/* #slidebar table,th,td{
+	border: 2px groove #a09beb;
+	border-collapse: collapse;
+}
+#slidebar th{
+	font-family: cursive;
+	color: #f7d148;
+} */
+
+
+/*--aboutss*/
+/* #aboutus a{
+	color: white;
+	text-decoration: none;
+	padding: 7px 15px;
+	margin: 10px 10px;
+	background-color: #c3b5e6;
+	display: inline-block;
+	border-radius: 7px;
+}
+#aboutus a:hover{
+	background-color: #23ebbf;
+	color: #344541;
+} */
+/* #aboutus table{
+	border-collapse: collapse;
+	border:2px groove #a1a1a1;
+
+
+}
+
+#aboutus tr,th{
+	font-family: cursive;
+	color: #7d2b0b;
+
+} */
+
+#aboutus{
+	height: 100vh;
+	width: 98.8vw;
+	background-color:#35635d ;
+}
+
+/*--workingarea--*/
+#workingarea{
+	height: 100vh;
+	width: 98.8vw;
+	background-color:#35635d ;
+}
+/* #workingarea a{
+	color: white;
+	text-decoration: none;
+	padding: 15px 20px;
+	margin: 10px 10px;
+	background-color: #c3b5e6;
+	display: inline-block;
+	border-radius: 80px;
+}
+
+#workingarea a:hover{
+	background-color: #23ebbf;
+	color: #344541;
+
+} */
+/* #workingarea table{
+	border-collapse: collapse;
+	border: 2px groove #a09beb;
+
+}
+
+#workingarea th,tr{
+	font-family: cursive;
+	color: #7d2b0b;
+} */
+
+/*--view--*/
+#view{
+	height: 100vh;
+	width: 98.8vw;
+	background-color:#35635d ;
+}
+
+/* #view a{
+	color: white;
+	text-decoration: none;
+	padding: 15px 20px;
+	margin: 10px 10px;
+	background-color: #c3b5e6;
+	display: inline-block;
+	border-radius: 8px;
+}
+ 
+
+
+#view a:hover{
+	background-color: #23ebbf;
+	color: #344541;
+} */
+/* .delete{
+	background-color: #f72105 !important;
+} */
+
+/* #view table{
+	border-collapse: collapse;
+	width: 100%;
+} */
