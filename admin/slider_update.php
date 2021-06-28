@@ -28,7 +28,7 @@ if (isset($_POST['submit'])) {
 
   $run = mysqli_query($conn, $edit);
 
-  header('Location: slider_view.php');
+  header('Location: manage-admin.php');
 }
 ?>
 <html>

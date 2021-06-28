@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
     $run = mysqli_query($conn, $sql);
 
     if ($run) {
-        header("location: slider_view.php");
+        header("location: manage-admin.php");
     } else {
         echo "Sorry!!!";
     }
